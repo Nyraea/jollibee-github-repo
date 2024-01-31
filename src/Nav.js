@@ -23,7 +23,7 @@ function Nav() {
           <a className="nav-link text-light font-BPreplay" href="#">Menu</a>
         </li>
         <li className="nav-item ms-2">
-          <a className="nav-link text-light font-BPreplay" aria-disabled="true">Promotions</a>
+          <a className="nav-link text-light font-BPreplay" href = "">Promotions</a>
         </li>
       </ul>
       <button className="d-none d-sm-flex btn btn-orange px-3 py-2 border border-0 rounded-pill text-light font-BPreplay ms-4">ORDER NOW</button>
