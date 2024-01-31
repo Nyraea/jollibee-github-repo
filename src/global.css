@@ -1,0 +1,112 @@
+@font-face {
+    font-family: BPreplay;
+    src: url(./fonts/BPreplayBold.otf);
+  }
+
+@font-face {
+    font-family: NationFF;
+    src: url(./fonts//NATIONFF.TTF)
+}  
+
+.w-25 {
+    width: 25%;
+}
+
+.w-20 {
+    width: 20%;
+}
+
+.w-30 {
+    width: 30%;
+}
+
+.w-40 {
+    width: 40%;
+}
+
+.w-90 {
+    width: 90%;
+}
+
+.w-65 {
+    width: 65%;
+}
+
+
+.w-85 {
+    width: 85%;
+}
+
+.w-10 {
+    width: 10%;
+}
+
+.w-15 {
+    width: 15%;
+}
+
+.font-BPreplaySmaller {
+    font-family: 'BPreplay';
+    font-size:smaller ;
+} 
+
+.font-BPreplaySmall {
+    font-family: 'BPreplay';
+    font-size:small ;
+}  
+
+.font-BPreplay {
+    font-family: 'BPreplay';
+    font-size:larger ;
+}  
+
+.font-BPreplayLarge {
+    font-family: 'BPreplay';
+    font: size 650px; ;
+}  
+
+.font-BPreplayHuge {
+    font-family: 'BPreplay';
+    font: size 850px; ;
+}  
+
+.font-NationFF {
+    font-family: 'NationFF';
+    font: size 400px; ;
+}  
+
+.bg-crimson {
+    background-color: #d6001c;
+}
+
+.btn-orange {
+    background-color: #fd7109;
+}
+
+.bg-melon {
+    background-color: #ffeab8;
+}
+
+.bg-mustard {
+    background-color: #ffa400;
+}
+
+.bg-bluegreen {
+    background-color: #009ca6;
+}
+
+.border-mustard{
+    border-color: #ffa400;
+}
+
+.border-crimson {
+    border-color: #d6001c;
+}
+
+.shadow-mustard{
+    box-shadow: 43px 25px 5px -11px rgba(255,164,0,1);
+}
+
+.shadow-crimson{
+    box-shadow: -41px 25px 5px -11px rgba(214,0,28,1);
+}
